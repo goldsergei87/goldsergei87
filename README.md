@@ -3,10 +3,6 @@
 
 <br/>
 
-<br/>
-
-<br/>
-
 <h4 align="left">🖥 Technical skills:</h4>
 
 <br/>
